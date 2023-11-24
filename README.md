@@ -1,6 +1,4 @@
 # Free multiplication table with JavaScript module
- https://github.com/KidiIT/Free-multiplication-table-with-Javascript-module.git
-
  NOTE:How to use and understand the export and import of module in javascript/multiplication table
  1:firstly, create a hmtl file and two js files. namely,module1 and module2 respectively on your editior
  2:secondly create and style your html template to be more presentable 
